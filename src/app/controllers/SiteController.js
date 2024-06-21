@@ -5,7 +5,7 @@ class SiteController {
     // [GET] /
     async home(req, res, next) {
         console.log('cron_now');
-        res.send('Trang chủ server App');
+        res.send('Yêu em Na nhứt nhứt trên đờiiiii <3 <3 <3');
     }
 }
 
